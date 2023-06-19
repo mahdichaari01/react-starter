@@ -1,1 +1,1 @@
-export * from './chakra.config'
+export * from './chakra.config';

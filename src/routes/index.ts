@@ -1,5 +1,7 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter } from 'react-router-dom';
 
-export const router = createBrowserRouter([{
-    index:true
-}]);
+export const router = createBrowserRouter([
+	{
+		index: true,
+	},
+]);
